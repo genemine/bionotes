@@ -41,6 +41,6 @@ Documents is [Readme.md](https://github.com/genemine/bionotes/blob/master/Single
 
 整体流程：下载可能的人脑组织的RNA-seq元数据 → 按一定规则过滤掉一些experiment和dataset → 下载每个experiment所用sample的网页 → 提取组织信息并过滤 → 下载RNA-seq data
 
-Directory is 
+Directory is [./Human brain-specific RNA-seq data downloading](https://github.com/genemine/bionotes/tree/master/Human brain-specific RNA-seq data downloading)
 
-Documents is 
+Documents is [downloading.md](https://github.com/genemine/bionotes/tree/master/Human brain-specific RNA-seq data downloading/downloading.md)
