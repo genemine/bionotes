@@ -32,7 +32,7 @@ Documents is [calculation.md](https://github.com/genemine/bionotes/blob/master/R
 
 Directory is [./Single-cell-RNA-seq-Clustering](https://github.com/genemine/bionotes/tree/master/Single-cell-RNA-seq-Clustering)
 
-Documents is [Readme.md](https://github.com/genemine/bionotes/blob/master/Single-cell-RNA-seq-Clustering/README.md)
+Documents is [Introduction.md](https://github.com/genemine/bionotes/blob/master/Single-cell-RNA-seq-Clustering/Introduction.md)
 
 
 # 4. Download human brain-specific RNA-seq data
