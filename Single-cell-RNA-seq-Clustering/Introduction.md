@@ -1,7 +1,5 @@
 # Single-cell-RNA-seq-Clustering (R/matlab/python)
 
-Order: 1.Corr → 2.MPSSC → 3.NMF → 4.PhenoGraph → 5.RAFSIL → 6.SC3 → 7.Seurat → 8.SIMLR → 9.SNN-cliq
-
 ## 1. Corr (matlab)
 
 Ref: Jiang H, Sohn L L, Huang H, et al. Single cell clustering based on cell-pair differentiability correlation and variance analysis[J]. Bioinformatics, 2018, 34(21): 3684-3694.
@@ -185,9 +183,6 @@ sce <- SingleCellExperiment(
 
 ## define feature names in feature_symbol column
 rowData(sce)$feature_symbol <- rownames(sce)
-
-## remove features with duplicated names
-sce <- sce[!duplicated(rowData(sce)$feature_symbol), ]
 
 ## Clustering
 sce <- sc3(sce, ks = *,gene_filter = FALSE,biology = FALSE)
