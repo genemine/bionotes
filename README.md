@@ -44,3 +44,18 @@ Documents is [Introduction.md](https://github.com/genemine/bionotes/blob/master/
 Directory is [./Human brain-specific RNA-seq data downloading](https://github.com/genemine/bionotes/tree/master/Human%20brain-specific%20RNA-seq%20data%20downloading)
 
 Documents is [downloading.md](https://github.com/genemine/bionotes/tree/master/Human%20brain-specific%20RNA-seq%20data%20downloading/downloading.md)
+
+
+
+# 5. ComBat
+使用sva包中的ComBat函数来去除批次效应(batch effect)
+
+输入:  
+    1. 行为genes, 列为samples的数据框或矩阵  
+    2. 产生批次效应的变量  
+输出:  
+    去除批次效应后的数据框或矩阵  
+
+Directory is [./ComBat](https://github.com/genemine/bionotes/tree/master/ComBat)
+
+Documents is [ComBat.md](https://github.com/genemine/bionotes/blob/master/ComBat/ComBat.md)
