@@ -59,3 +59,15 @@ Documents is [downloading.md](https://github.com/genemine/bionotes/tree/master/H
 Directory is [./ComBat](https://github.com/genemine/bionotes/tree/master/ComBat)
 
 Documents is [ComBat.md](https://github.com/genemine/bionotes/blob/master/ComBat/ComBat.md)
+
+
+# 6. Download protein sequence data
+
+从uniprot下载人类蛋白质序列
+
+整体流程：访问uniprot网站 → 搜索人类蛋白质组 → 下载fasta格式的蛋白质序列
+
+Directory is [./Human protein sequence data downloading](https://github.com/genemine/bionotes/tree/master/Human%20protein%20sequence%20data%20downloading)
+Documents is [downloading.md](https://github.com/genemine/bionotes/blob/master/Human%20protein%20sequence%20data%20downloading/downloading.md)
+
+
